@@ -1,6 +1,6 @@
 # maimaisong-extracter
 maimaiの楽曲リスト抽出スクリプト<br>
-https://maimaidx.jp/maimai-mobile/record/musicGenre/のページから抽出します
+https://maimaidx.jp/maimai-mobile/record/musicGenre/　のページから抽出します
 
 ## 実行
 - 取得したい難易度を選択<br>
